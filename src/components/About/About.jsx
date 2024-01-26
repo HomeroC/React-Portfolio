@@ -12,7 +12,7 @@ function About() {
         </h1>
         <h2 className="role">Full Stack Web Developer</h2>
       </div>
-      <p className="about-me">About Me</p>
+      <h2 className="about-me">About Me</h2>
       <p className="summary">
         I am a results-driven web developer proficient in HTML, CSS, and
         JavaScript. Experienced in React and Redux for dynamic UIs, with Node.js

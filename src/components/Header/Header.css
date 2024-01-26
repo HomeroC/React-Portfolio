@@ -3,10 +3,19 @@
     display: flex;
     align-items: center;
     padding: 1rem;
+    position:fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
     
 }
 
 .nav-item {
     padding: 0 1rem;
-    color: #fff;
+    color: rgb(191, 191, 191);
+    cursor: pointer;
+}
+
+.nav p:hover {
+    color: white;
 }
