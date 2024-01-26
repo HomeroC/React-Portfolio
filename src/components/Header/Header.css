@@ -1,0 +1,12 @@
+.nav {
+    background: #2f323a;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    
+}
+
+.nav-item {
+    padding: 0 1rem;
+    color: #fff;
+}
